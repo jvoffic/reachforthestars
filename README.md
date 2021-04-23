@@ -1,2 +1,2 @@
 # reachforthestars
-Driven, Grind, Focused, Reach for the stars
+Find your travel destination
