@@ -1,0 +1,130 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}
+
+body {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+
+}
+
+h1 {
+    text-align:center;
+}
+
+a {
+   text-decoration: none;
+   color:black; 
+}
+
+footer {
+    background-color: rgb(3, 180, 157);
+    position: fixed;
+    height:80px;
+    width: 100%;
+    bottom: 0;
+}
+
+.instagram {
+}
+
+.instagram_image {
+    height:60px;
+    position: fixed;
+    top:870px;
+    left:20px;
+}
+
+.tumblr {
+}
+
+.tumblr_image {
+    height:60px;
+    position: fixed;
+    top: 870px;
+    left: 110px;
+}
+
+.mainaction {
+    background-color: white;
+    height: 200px;
+    width: 800px;
+    opacity: 0.6;
+    display: block;
+    padding-top: 100%;
+    position: relative;
+    top: 50px;
+    bottom: 80px;
+    margin: 0 auto;
+}
+
+.italy {
+
+}
+
+.italy_picture {
+    position: fixed;
+    height: 300px;
+    width: 600px;
+    left: 200px;
+    top: 60px;
+    display: grid;
+    margin: auto;
+}
+
+.h1_1 {
+    position: absolute;
+    top:350px;
+    left:400px;
+}
+
+.p_1 {
+    position:absolute;
+    top:400px;
+    left:400px;
+}
+
+.p_2 {
+    position: absolute;
+    top:430px;
+    left:400px;
+}
+
+.ul_1 {
+    position: absolute;
+    top:460px;
+    left:400px;
+}
+
+.p_3 {
+    position:absolute;
+    top:530px;
+    left:400px;
+}
+
+.ol_1 {
+    position:absolute;
+    top:560px;
+    left:400px;
+}
+
+.home {
+
+}
+
+.homeb {
+    height:50px;
+    position:fixed;
+    left:20px;
+    top:10px;
+}
